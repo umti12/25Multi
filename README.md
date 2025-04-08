@@ -1,2 +1,2 @@
 # 25Multi
-강릉원주대 멀티 프로그래밍
+gwnu multi
